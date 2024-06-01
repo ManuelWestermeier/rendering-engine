@@ -1,6 +1,8 @@
 import { defineConfig } from "vite";
 
-defineConfig({
+const config = defineConfig({
     base: "rendering-engine",
     build: { outDir: "docs" }
 })
+
+export default config

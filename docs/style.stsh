@@ -1,0 +1,10 @@
+// here are the globals
+
+#button
+margin: 10, 30, 10, 20
+padding: 5, 5, 10, 10
+background: black
+color: white
+
+#test
+margin: 0, 0, 0, 0
